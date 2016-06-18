@@ -15,7 +15,8 @@ Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell w
 ### Requirements
 
 * Gnome/GTK 3.14, 3.16, 3.18 or 3.20
-* The `gnome-themes-standard` and `gtk2-engines-murrine` packages.
+* The `gnome-themes-standard` and `gtk2-engines-murrine` packages:
+  sudo apt-get install gnome-themes-standard gtk2-engines-murrine
 
 Derivatives of these distributions should work, as well.
 
@@ -25,6 +26,7 @@ Derivatives of these distributions should work, as well.
 
     sudo rm -rf /usr/share/themes/arc-new-darker
     sudo rm -rf /usr/share/icons/Arc
+    sudo rm -rf /usr/share/icons/Paper
 
 Run the following to install the theme, including icon set:
 

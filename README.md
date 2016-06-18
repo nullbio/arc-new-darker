@@ -15,8 +15,10 @@ Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell w
 ### Requirements
 
 * Gnome/GTK 3.14, 3.16, 3.18 or 3.20
+* `git` so you can clone the repo:
+    sudo apt-get install git
 * The `gnome-themes-standard` and `gtk2-engines-murrine` packages:
-  sudo apt-get install gnome-themes-standard gtk2-engines-murrine
+    sudo apt-get install gnome-themes-standard gtk2-engines-murrine
 
 Derivatives of these distributions should work, as well.
 

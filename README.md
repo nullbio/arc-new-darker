@@ -52,3 +52,7 @@ To install this theme, drag and drop the .crx file in the Chrome directory into 
 
 #### Arc icon set theme (Paper icon set backup)
 Theme from: https://github.com/horst3180/arc-icon-theme -- Modified to inherit Paper icon set for missing icons, instead of Moka: https://github.com/snwh/paper-gtk-theme
+
+#### Terminal font
+The terminal font in the screenshot is Terminus:
+    sudo apt-get install xfonts-terminus console-terminus

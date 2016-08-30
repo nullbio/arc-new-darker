@@ -4,6 +4,19 @@ This is a fork of the Arc Darker theme at https://github.com/horst3180/arc-theme
 
 The terminal scrollbar was broken in the official arc-darker version, this fixes that in the gtk.css file whilst retaining the other nice theme changes.
 
+To get standard, install the following pre-requisites:
+
+Requirements
+
+* Gnome/GTK 3.14, 3.16, 3.18 or 3.20
+* The `gnome-themes-standard` package
+* The murrine engine. This has different names depending on your distro.
+  * `gtk-engine-murrine` (Arch Linux)
+  * `gtk2-engines-murrine` (Debian, Ubuntu, elementary OS)
+  * `gtk-murrine-engine` (Fedora)
+  * `gtk2-engine-murrine` (openSUSE)
+  * `gtk-engines-murrine` (Gentoo)
+
 # Arc Theme
 
 Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
